@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 // console.log("Connection successful");
-mongoose.connect("mongodb+srv://gunjannaruka95:Gonika007@cluster0.admsuev.mongodb.net/FoodSample",{
+mongoose.connect("Enter your mongodb connection string",{
   useNewUrlParser: true,
   useUnifiedTopology: true
 }) 
